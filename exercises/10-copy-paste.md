@@ -157,7 +157,8 @@ Now let's try to translate some of what we've learn to the world of programming 
 //  and the player will be able to choose to play with any of your favorite characters! What?!
 // Add some of your favorite characters to the character selection screen.
 // Use what you've learned so far to achieve it in the fastest way you can think of.
-
+// You need to basically add the following line to the characters array.
+// new Character({ name: "Conan", class: Classes.Barbarian, race: Race.Human }),
 //   start here
 //    /
 //  /
